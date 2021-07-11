@@ -1,0 +1,32 @@
+body{
+    background-color: #f3f1ff;
+}
+.navbar img{
+    width: 40px;
+}
+.player img{
+    width: 56px;
+}
+main{
+    max-width: 780px;
+}
+
+.navbar-brand{
+    margin-left: 270px;
+}
+.navbar-nav{
+    margin-right: 270px;
+}
+h3{
+    color: #562EFF;
+}
+.blog img{
+    width: 177px;
+}
+.person{
+    color: #562EFF;
+}
+.footer{
+    max-width: 780px;
+    margin-top: 20px;
+}
